@@ -13,7 +13,6 @@ const App = (props) => {
     return (
         <div className="App">
             <section className="App-section">
-                <div className="App-section-title"> Html5-qrcode React demo</div>
                 <br />
                 <br />
                 <br />
